@@ -24,10 +24,11 @@ Doctelligence Foundation's work supports the objectives of several key internati
 - **WHO (World Health Organization)**: Enhancing global health data management and security.
 - **UNDP (United Nations Development Programme)**: Supporting sustainable development goals related to health and well-being.
 - **World Bank**: Aligning with initiatives to improve healthcare access and infrastructure.
-  
+
+For more details about our mission and to get involved, please visit our website: [www.doctelligence.org](https://www.doctelligence.org).
+
 If you're as excited as we are about the potential of this project, dive right in! Below, you'll find all the information you need to get started, from setting up your environment to the intricacies of contribution.
 
 Happy coding! ✨
 
 © 2024 Doctelligence Foundation | Bridging gaps in healthcare through innovation.
-
