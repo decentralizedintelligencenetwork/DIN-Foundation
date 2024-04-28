@@ -23,9 +23,8 @@ This initiative aligns with global strategies such as the WHO’s [Global Strate
 Doctelligence Foundation's work supports the objectives of several key international organizations, including:
 - **WHO (World Health Organization)**: Enhancing global health data management and security.
 - **UNDP (United Nations Development Programme)**: Supporting sustainable development goals related to health and well-being.
-- **ITU (International Telecommunication Union)**: Promoting the use of information and communication technology (ICT) in healthcare.
 - **World Bank**: Aligning with initiatives to improve healthcare access and infrastructure.
-
+  
 If you're as excited as we are about the potential of this project, dive right in! Below, you'll find all the information you need to get started, from setting up your environment to the intricacies of contribution.
 
 Happy coding! ✨
