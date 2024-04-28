@@ -8,7 +8,7 @@ Hello there! Thank you for visiting. This repository is dedicated to Doctelligen
 2. A public blockchain-based federated learning protocol (FL) for AI training on these records.
 3. An auditable reward system to ensure fair reward allocation, with rewards specifically designed to fund decentralized healthcare insurance solutions.
 
-Patients, incentivized with digital wallet rewards, play a crucial role in this system, which also seeks to underpin future decentralized insurance models. For an in-depth discussion on our approach, refer to the whitepaper contained within this repository.
+Patients, incentivized with digital wallet rewards, play a crucial role in this system, which also seeks to underpin future decentralized insurance models. For an in-depth discussion on our approach, refer to the [whitepaper](/whitepaper/-.pdf) contained within this repository.
 
 ## Features:
 
