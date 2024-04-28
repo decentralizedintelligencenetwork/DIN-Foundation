@@ -29,3 +29,6 @@ Doctelligence Foundation's work supports the objectives of several key internati
 If you're as excited as we are about the potential of this project, dive right in! Below, you'll find all the information you need to get started, from setting up your environment to the intricacies of contribution.
 
 Happy coding! ✨
+
+© 2024 Doctelligence Foundation | Bridging gaps in healthcare through innovation.
+
