@@ -1,34 +1,55 @@
-# Welcome to Doctelligence Foundation! 🚀
+# Welcome to the Decentralized Intelligence Network (DIN) 🌐🧠
 
-Hello there! Thank you for visiting. This repository is dedicated to Doctelligence Foundation's initiative to develop an open-source, self-sovereign healthcare network designed as a public good.
+DIN Foundation is dedicated to establishing a self-sovereign, decentralized data network across various sectors for the public good.
 
-**Abstract:** Health data, currently fragmented across various institutions, faces numerous challenges in terms of identification, retrieval, and efficient use in AI training. This framework proposes a new model that integrates:
+## Mission
 
-1. Self-sovereign identity with a personal health data store.
-2. A public blockchain-based federated learning protocol (FL) for AI training on these records.
-3. An auditable reward system to ensure fair reward allocation, with rewards specifically designed to fund decentralized healthcare insurance solutions.
+Our mission is to empower individuals with data sovereignty while facilitating effective AI training for societal benefit. We align our efforts with global initiatives promoting digital rights, privacy, and equitable access to technology.
 
-Patients, incentivized with digital wallet rewards, play a crucial role in this system, which also seeks to underpin future decentralized insurance models. For an in-depth discussion on our approach, refer to the [whitepaper](/whitepaper/-.pdf) contained within this repository.
+## What We Do
 
-## Features:
+At DIN Foundation, we focus on:
 
-- 📌 **Self-Sovereign Identity and Personal Health Record Integration:** Ensuring that individuals maintain control over their personal health data.
-- 🖼️ **Public Blockchain-Based Federated Learning (FL):** Utilizing blockchain technology to securely train AI models on distributed datasets.
-- 🛠️ **Auditable Trustless Reward System:** Creating a transparent mechanism for compensating data contributions, fostering a sustainable model for decentralized health insurance.
+- **Ensuring Data Control:** Advocating for individual data control and ensuring that individuals benefit from advancements in AI technology.
+- **Implementing Scalable Federated Learning:** Utilizing public blockchains to implement a scalable federated learning protocol.
+- **Designing Fair Reward Mechanisms:** Developing trustless reward mechanisms to ensure fair participation incentives.
 
-This initiative aligns with global strategies such as the WHO’s [Global Strategy on Digital Health 2020-2025](https://www.who.int/publications/i/item/9789240020924) and supports the [Universal Health Coverage](https://www.who.int/europe/health-topics/universal-health-coverage) goals by improving access to healthcare services through enhanced data management and security.
+## Key Use Cases
 
-## Global Alignment and Partnerships:
+Our work spans across various sectors:
 
-Doctelligence Foundation's work supports the objectives of several key international organizations, including:
-- **WHO (World Health Organization)**: Enhancing global health data management and security.
-- **UNDP (United Nations Development Programme)**: Supporting sustainable development goals related to health and well-being.
-- **World Bank**: Aligning with initiatives to improve healthcare access and infrastructure.
+- **Healthcare 🏥:** Enabling patient-controlled health data for research and personalized care.
+- **Finance 💰:** Facilitating individual financial data management for tailored advice.
+- **Education 📚:** Empowering students with ownership of academic records for customized learning.
+- **Smart Cities 🏙️:** Enabling residents to manage urban data for optimized services.
+- **Agriculture 🌾:** Providing farmers with control over agricultural data for improved practices.
 
-For more details about our mission and to get involved, please visit our website: [www.doctelligence.org](https://www.doctelligence.org).
+## Public Goods, Governance, and Tokenomics
 
-If you're as excited as we are about the potential of this project, dive right in! Below, you'll find all the information you need to get started, from setting up your environment to the intricacies of contribution.
+We emphasize social aspects and tangible value in our system architecture:
 
-Happy coding! ✨
+- **Public Goods Initiatives:** Inspired by initiatives like [Gitcoin](https://gitcoin.co/) funding and [Optimism](https://www.optimism.io/)'s vision.
+- **Governance Concepts:** Exploring innovative governance models such as [Gov4Git](https://gov4git.org/), quadratic voting, and delegate mechanisms.
+- **Non-Speculative Tokenomics:** Implementing concepts like Harberger taxation and partial-common ownership, influenced by [RadicalxChange](https://www.radicalxchange.org/).
 
-© 2024 Doctelligence Foundation | Bridging gaps in healthcare through innovation.
+## Alignment with Global Initiatives
+
+Our work aligns with global standards and initiatives including:
+
+- [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+- [EU General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
+- [OECD Guidelines on Privacy Protection](https://www.oecd.org/digital/ieconomy/privacy-guidelines.htm)
+- [APEC Privacy Framework](https://www.apec.org/Publications/2017/08/APEC-Privacy-Framework-(2015))
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
+
+## Get Involved
+
+Join us in shaping the future of decentralized technology:
+
+- **Contribute:** Check our [contribution guidelines](link-to-guidelines).
+- **Engage:** Explore opportunities on our [website](https://www.example.org).
+- **Connect:** Reach out to us to discuss collaboration.
+
+📄 Read our full [White Paper](https://decentralized-intelligence-network.github.io/white-paper)
+
+© 2024 DIN Foundation | Empowering global data sovereignty through innovation
