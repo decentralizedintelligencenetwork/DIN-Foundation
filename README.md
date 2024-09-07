@@ -1,21 +1,22 @@
-# Welcome to Doctelligence Foundation! 🚀 
+# Welcome to the Doctelligence Foundation 🚀
 
-Hello there! Thank you for dropping by. This repository houses Doctelligence, our endeavor to open-source an entirely self-sovereign healthcare network as a public good.
+The Doctelligence Foundation supports and promotes the core values of the Decentralized Intelligence Network (DIN). Our mission is to advocate for a self-sovereign, decentralized ecosystem that empowers individuals and organizations through data sovereignty, scalable AI, and advanced decentralized technologies. We aim to drive innovation and ensure accessibility across various industries.
 
-**Abstract:** Health data, currently scattered across various institutions, poses challenges in identification, retrieval, and AI tool training. This paper introduces a framework that merges:
+## Key Principles Supported by Doctelligence Foundation:
+- 🛡️ **Advocate for a self-sovereign, decentralized network** that fosters trust and autonomy across multiple sectors.
+- 📈 **Promote access to federated learning (FL) protocols** for open and decentralized AI ecosystems.
+- 🌍 **Encourage an ecosystem where data contributions are rewarded,** fostering innovation and equity.
 
-1. Self-sovereign identity with personal health data store.
-2. A public blockchain-based federated learning protocol (FL) for AI training on these records.
-3. An auditable reward system enabling fair reward allocation.
+The Doctelligence Foundation is dedicated to supporting the principles of decentralization and enhancing industry outcomes by aligning with global standards and frameworks. We focus on advancing digital technologies and their applications to ensure accessibility, equity, and innovation.
 
-Patients, incentivized through digital wallet rewards, contribute to this system, which also aims to support decentralized insurance in the future.
+## Origins and Vision:
+The Doctelligence Foundation’s framework is built upon pioneering research in decentralized and privacy-preserving technologies. Our vision was showcased at the Summit on Responsible Decentralized Intelligence - Future of Decentralization and AI, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC. Explore our foundational papers here:
 
-## Features:
+- **[DIN: Decentralized Intelligence Network](https://arxiv.org/abs/2407.02461)**
 
-- 📌 Self-sovereign identity and personal health record integration
-- 🖼️ Public blockchain-based federated learning (FL)
-- 🛠️ Auditable trustless reward system
+## Get Involved:
+If you are passionate about advocating for decentralized technologies or want to support the principles of a transformative cross-sector model, join us at the Doctelligence Foundation.
 
-If you're as excited as we are about the potential of this project, dive right in! Below, you'll find all the information you need to get started, from setting up your environment to the intricacies of contribution.
-
-Happy coding! ✨
+- **Contribute:** Support the promotion of decentralized intelligence. Review our [contribution guidelines](https://github.com/Doctelligence/DIN-Protocol-Proposals-DPP).
+- **Engage:** Discover how you can be involved through our [LinkedIn](#) and [website](https://doctelligence.github.io).
+- **Connect:** Reach out to us at [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com) for more information or to discuss potential collaborations.
